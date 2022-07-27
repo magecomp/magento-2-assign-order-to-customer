@@ -1,4 +1,4 @@
-# [Magento 2 Order Confirmation Email](https://magecomp.com/magento-2-assign-order-to-customer.html) by MageComp
+# [Magento 2 Assign Order to Customer](https://magecomp.com/magento-2-assign-order-to-customer.html) by MageComp
 
 With the MageComp Assign Order to Customer Extension, Magento 2 customers can access their guest checkouts by entering their order ID.
 
@@ -59,7 +59,7 @@ Once the order is assign to the customer, they can find it out in order section.
 
 **6. Backend Assign Order Comments**
 
-1[config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/6/-/6-backend_assign_order_comments_1_1.webp)
+![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/6/-/6-backend_assign_order_comments_1_1.webp)
 
 **7. Assign Order to Customer in Order Section**
 
