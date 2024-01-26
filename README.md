@@ -1,13 +1,39 @@
-# [Magento 2 Assign Order to Customer](https://magecomp.com/magento-2-assign-order-to-customer.html) by MageComp
+# Magento 2 Assign Order to Customer
+![2](https://github.com/magecomp/magento-2-assign-order-to-customer/assets/8856845/0aec783e-e5ef-41bb-9730-4ed16a4f9a85)
 
 With the MageComp Assign Order to Customer Extension, Magento 2 customers can access their guest checkouts by entering their order ID.
 
 <a href="https://magecomp.com/magento-2-assign-order-to-customer.html"><img width="300" height="92" src="https://magecomp.com/media/button.webp"></a>
 
-## Requirements
-* Magento Community 2.2.0-2.4.x (CE, EE, ECE, B2B)
+# Contribute & Explore Your Coding Skills
 
-## Main Features
+We're always interested in growing mutually by inviting developers & motivating them to contribute to our Magento 2 Assign Order to Customer module. Be ready to hit your keyboard keys & get listed today!
+
+<a href="https://github.com/magecomp/magento-2-assign-order-to-customer/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=magecomp/magento-2-assign-order-to-customer" />
+</a>
+
+# Compatibility with Magento Versions
+* Magento Community 2.2.0 - 2.4.x (CE, EE, ECE, B2B)
+
+# What About the Pricing?
+
+* It's completely FREE OF CHARGE.
+
+# Compatibility with Magento Versions
+
+* Magento 2.4.X (CE, EE, ECE)
+
+# Installing Via Composer
+  
+<img src="https://i.ibb.co/NjGRFCt/composer.png">
+Specify project dependencies using a JSON file & leave everything to Composer.
+
+# Compatible with Hyvä 
+
+![Screenshot (20)](https://github.com/magecomp/magento2-mobile-login-free/assets/8856845/c0a5c632-fa58-4b84-bba4-2a3d26e4358e)
+
+# Benefits
 
 * Extension can be enabled or disabled.
 
@@ -17,116 +43,54 @@ With the MageComp Assign Order to Customer Extension, Magento 2 customers can ac
 
 * Backend view allows admin to view assigned order activities as comments.
 
-## Benefits
+# Configuration
 
-**1. User-friendly Backend**
-
-Admin can enable or disable the extenson from backend
-
-**2. Assign Order Tab**
-
-Customer can see "Assign Order" tab in the frontend. 
-
-**3. Admin Backend Order View**
-
-Also, admin can see the order view of the customer from backend. 
-
-**4. Order History**
-
-Once the order is assign to the customer, they can find it out in order section.
-
-## Screenshots
-
-**1. Configuration**
+* Enable or disable the extension from here.
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/1/-/1-configuration_1_1_1.webp)
 
-**2. Frontend Of Assign Order**
+# Let's Check How It Works
+
+* In Frontend, your client will see a distinct tab under the hood of their account section where they can assign their guest order to the customer itself.
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/2/-/2-frontend_assign_order_tab_1_2_1.webp)
 
-**3. Frontend Assign Order Success**
+* When the consumer inputs their guest order ID and clicks the assign order button, the extension displays a success message to them.
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/3/-/3-frontend_assign_order_success_1_2_1.webp)
 
-**4. Frontend Assign Order Error**
+* If the order ID entered by the customer does not match the order email, the extension will show an error at the top for the same.
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/4/-/4-frontend_assign_order_error_1_1_1.webp)
 
-**5. Assign Order Find Error**
+* If the customer enters the incorrect guest order ID in the box, the extension will generate an error.
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/5/-/5-frontend_assign_order_find_error_1_1.webp)
 
-**6. Backend Assign Order Comments**
+* In the Backend order view, the admin can see customer assign status and attempts at the bottom of order details.
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/6/-/6-backend_assign_order_comments_1_1.webp)
 
-**7. Assign Order to Customer in Order Section**
+* Once the order is assigned to the customer, they can view all the order details and updates from their account section at any time.
 
 ![config](https://magecomp.com/media/catalog/product/cache/19b10369fecc27f1a40729d1b5b60dea/7/-/7-assigned_order_to_customer_in_their_orders_1.webp)
 
-## Change Log
+# Support
 
-**Version 1.0.2**
+Write to us at our [Support Portal](https://magecomp.com/support) for queries about our Magento 2 extensions or services.
 
-- Added REST API and GraphQL API
+# Contact Us
 
-**Version 1.0.1**
+**MageComp**
 
-- Compatible with Magento Standard
+**Head Quarters:** 304-305, Eva Surbhi Complex, Waghawadi Road, Bhavnagar, Gujarat (India)
 
-## Support
+**Branch:** 1212, Shilp Zaveri, Shyamal Cross Road, Satellite, Ahmedabad, Gujarat, India.
 
-In case of any queries about our extensions or services, feel free to write to us at our [Support Portal](https://magecomp.com/support/).
+**Representative office:** 9 Sunbird Crescent, Scarborough M1V3M6 (Canada)
 
-## Contact us
+**Phone:** +91 79902 50277
 
-In case you would want to contact us, reach out to us at:
+**Email:** [support@magecomp.com](mailto:support@magecomp.com)
 
-Phone: +917990250277
-
-Email: [support@magecomp.com](mailto:support@magecomp.com)
-
-## Other Magento 2 Extensions by MageComp
-
-[Magento 2 Breadcrumbs Extension](https://magecomp.com/magento-2-breadcrumbs.html)
-
-[Magento 2 AJAX Infinite Scroll](https://magecomp.com/magento-2-ajax-infinite-scroll.html)
-
-[Magento 2 Google Address Auto Complete Extension](https://magecomp.com/magento-2-google-address-auto-complete.html)
-
-[Magento 2 Facebook Pixel Extension](https://magecomp.com/magento-2-facebook-pixel.html)
-
-[Magento 2 Image Alt Tags](https://magecomp.com/magento-2-image-alt-tags.html)
-
-[Magento 2 Free Shipping Bar](https://magecomp.com/magento-2-free-shipping-bar.html)
-
-[Magento 2 Shipping Calculator](https://magecomp.com/magento-2-shipping-calculator.html)
-
-[Magento 2 Bulk Coupon Delete](https://magecomp.com/magento-2-bulk-coupon-delete.html)
-
-[Magento 2 Disable Right Click](https://magecomp.com/magento-2-disable-right-click.html)
-
-[Magento 2 Aramex Shipping Integration](https://magecomp.com/magento-2-aramex-shipping-integration.html)
-
-## Magento Marketplace Extension By MageComp
-
-[Magento 2 Category Import Export](https://marketplace.magento.com/magecomp-magento-2-category-import.html)
-
-[Magento 2 Log Downloads](https://marketplace.magento.com/magecomp-magento-2-log-download.html)
-
-[Magento 2 Custom Stock Status](https://marketplace.magento.com/magecomp-magento-2-custom-stock-status.html)
-
-[Magento 2 Mobile App Builder](https://marketplace.magento.com/magecomp-magento-2-mobile-app-builder.html)
-
-[Magento 2 Ajax Login & Register](https://marketplace.magento.com/magecomp-magento-2-ajax-login-register.html)
-
-[Magento 2 Reviews Import](https://marketplace.magento.com/magecomp-module-reviewimport.html)
-
-[Magento 2 Push Notifications](https://marketplace.magento.com/magecomp-magento-2-push-notifications.html)
-
-[Magento 2 Shop by Brand](https://marketplace.magento.com/magecomp-magento-2-shop-by-brand.html)
-
-[Magento 2 Delivery Date](https://marketplace.magento.com/magecomp-module-deliverydate.html)
-
-[Magento 2 Inventory Sync SOAP API](https://marketplace.magento.com/magecomp-magento-2-inventory-sync-soap-api.html)
+<img src="https://magecomp.com/media/logo/websites/1/Magecomp_Logo_251x51.png">
